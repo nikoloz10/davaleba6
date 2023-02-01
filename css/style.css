@@ -21,3 +21,39 @@ ul {
 }
 
 /* section */
+
+section {
+    width: 100%;
+    background-color: #f2f5f8;
+    padding-bottom: 63px;
+}
+
+h3 {
+    font-size: 32px;
+    color: #225857;
+    padding: 52px 0 69px 98px;
+}
+
+.cards {
+    display: flex;
+    width: 90%;
+    margin: 0 auto;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    gap: 95px 22px;
+}
+
+.card {
+    background-color: #fff;
+    width: 400px;
+    height: 368px;
+    border-radius: 8px;
+    padding: 33px 30px 0 30px;
+}
+.card p {
+    margin-top: 60px;
+    font-size: 20px;
+    color: #133b3a;
+}
+
+/* footer */
