@@ -57,3 +57,26 @@ h3 {
 }
 
 /* footer */
+
+footer {
+    background-color: #758bfd;
+}
+
+.foot {
+    padding: 59px 0 44px 0;
+    width: 90%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.search {
+    width: 449px;
+    height: 64px;
+    background-color: #fff;
+    border-radius: 5px;
+    display: flex;
+    justify-content: flex-end;
+    padding: 8px 10px 8px 0;
+}
