@@ -1,0 +1,23 @@
+/* header */
+
+.container {
+    max-width: 1440px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+header {
+    padding: 46px 98px 79px 98px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+ul {
+    display: flex;
+    gap: 91px;
+    font-size: 24px;
+    color: #8172d5;
+}
+
+/* section */
